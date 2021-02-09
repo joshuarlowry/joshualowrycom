@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Joshua R. Lowry',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -33,31 +33,31 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+    //   {
+    //     text: 'Guide',
+    //     link: '/guide/',
+    //   },
+    //   {
+    //     text: 'Config',
+    //     link: '/config/'
+    //   },
+    //   {
+    //     text: 'VuePress',
+    //     link: 'https://v1.vuepress.vuejs.org'
+    //   }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
+    // sidebar: {
+    //   '/guide/': [
+    //     {
+    //       title: 'Guide',
+    //       collapsable: false,
+    //       children: [
+    //         '',
+    //         'using-vue',
+    //       ]
+    //     }
+    //   ],
+    // }
   },
 
   /**
