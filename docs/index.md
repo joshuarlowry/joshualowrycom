@@ -1,7 +1,7 @@
 ---
 home: true
 title: Joshua R. Lowry
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+#heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Simplifying complexity.
 #actionText: Quick Start →
 #actionLink: /guide/
