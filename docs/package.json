@@ -1,0 +1,19 @@
+{
+  "name": "joshualowrycom",
+  "version": "0.0.1",
+  "description": "Joshua Lowry&#39;s adventures in experience.",
+  "main": "index.js",
+  "authors": {
+    "name": "Josh",
+    "email": "joshua.r.lowry@protonmail.com"
+  },
+  "repository": "github/joshualowrycom",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
