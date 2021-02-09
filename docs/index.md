@@ -5,12 +5,16 @@ title: Joshua R. Lowry
 tagline: Simplifying complexity.
 #actionText: Quick Start →
 #actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
+# features:
+# - title: Kiddo Lullaby
+#   details: Help grandparents manage music at our home. [Read More](./kiddolullaby/README.md)
+# - title: Feature 2 Title
+#   details: Feature 2 Description
 #- title: Feature 3 Title
 #  details: Feature 3 Description
 footer: Made by Josh with ❤️
 ---
+
+# Projects
+## Kiddo Lullaby
+Help grandparents manage music at our home. [Read More](./kiddolullaby/)
