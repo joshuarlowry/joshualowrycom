@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Joshua Lowry&#39;s adventures in experience.
+tagline: Joshua Lowry's adventures in experience.
 actionText: Quick Start →
 actionLink: /guide/
 features:
