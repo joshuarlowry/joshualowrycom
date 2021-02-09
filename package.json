@@ -7,7 +7,7 @@
     "name": "Josh",
     "email": "joshua.r.lowry@protonmail.com"
   },
-  "repository": "github/joshualowrycom",
+  "repository": "github.com/joshuarlowry/joshualowrycom",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
