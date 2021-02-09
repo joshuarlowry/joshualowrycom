@@ -1,0 +1,2 @@
+# joshualowrycom
+My static site
