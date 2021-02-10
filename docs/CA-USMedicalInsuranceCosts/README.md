@@ -1,3 +1,9 @@
+---
+title: CodeCademy Data Science Analysis U.S. Medical Insurance Costs
+description: A small data science project on U.S. Medical Insurance Costs I completed for my Data Science coursework.
+heroimage: hero.jpg
+type: portfolio
+---
 In this Codecademy exercise I was asked to explore U.S. Medical Insurance Cost data using Python. The document below was generated from Google Colaboratory, based on Jupyter Notebook, and shows the process I followed to examine my hypothesis that smoking plays the biggest role in increasing insurance costs on average. 
 
 Please note that I am unsure of the data provenance since this was an educational exercise using realistic data. 

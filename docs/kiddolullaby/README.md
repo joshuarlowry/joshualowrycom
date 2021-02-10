@@ -1,5 +1,9 @@
 ---
 title: Kiddo Lullaby
+description: This will help grandparents manage music in the kid's rooms specifically targeted at nap time. This includes triggering specific playlists or songs and changing the volume.
+heroimage: hero.jpg
+type: portfolio
+topics: UX, Design, Programming, API
 ---
 
 # Kiddo Lullaby
