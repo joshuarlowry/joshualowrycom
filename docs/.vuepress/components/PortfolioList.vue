@@ -35,7 +35,7 @@ export default {
   width: 100%;
 }
 .post-card {
-  width: 600px;
+  width: 350px;
   height: 150px;
   margin: 10px;
   border: 1px solid #ccc;
