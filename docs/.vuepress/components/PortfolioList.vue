@@ -1,13 +1,10 @@
 <template>
   <div class="post-container">
-    <router-link v-for="page in pages" :to="page.path">
-      <div class="post-card">
-        <!--<img class="article-image" src={{ page.frontmatter.heroimage}} />-->
+    <router-link v-for="page in pages" :to="page.path" class="post-card">
         <div class="page-detail">
           <h3 class="page-title">{{ page.title }}</h3>
           <p class="page-description">{{ page.frontmatter.description }}</p>
         </div>
-      </div>
     </router-link>
   </div>
 </template>
@@ -31,25 +28,19 @@ export default {
 <style scoped>
 .post-container {
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
   width: 100%;
 }
 .post-card {
-  width: 350px;
-  height: 150px;
-  margin: 10px;
+    margin: 1ch;
+    flex-grow:2;
+    flex-shrink:1;
+    flex-basis: min-content;
+      padding-left: 2ch;
+  padding-right: 2ch;
   border: 1px solid #ccc;
   border-radius: 3px;
-  padding: 10px;
-  display: flex;
-  align-items: center;
 }
-.article-image {
-  height: 100%;
-}
-.description {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
+
+
 </style>
