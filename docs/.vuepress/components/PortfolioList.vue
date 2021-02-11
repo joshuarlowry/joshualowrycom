@@ -27,19 +27,20 @@ export default {
 
 <style scoped>
 .post-container {
-  display: flex;
-  justify-content: center;
-  width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
 }
 .post-card {
     margin: 1ch;
-    flex-grow:2;
-    flex-shrink:1;
+    flex-grow: 1;
+    min-width: 375px;
     flex-basis: min-content;
-      padding-left: 2ch;
-  padding-right: 2ch;
-  border: 1px solid #ccc;
-  border-radius: 3px;
+    padding-left: 2ch;
+    padding-right: 2ch;
+    border: 1px solid #ccc;
+    border-radius: 3px;
 }
 
 
