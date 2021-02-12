@@ -24,4 +24,6 @@ In 2009, I got my Bachelor's of Science in Computer Science from TAMUCC. While t
 # Projects
 <portfolioList />
 
+# Articles
+<articleList />
 That's all for now.
