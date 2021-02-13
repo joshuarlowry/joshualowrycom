@@ -34,6 +34,10 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
+        {
+            text: 'Legacy',
+            link: '/Legacy.md'
+        }
     //   {
     //     text: 'Guide',
     //     link: '/guide/',
