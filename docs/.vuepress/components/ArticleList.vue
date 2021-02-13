@@ -18,7 +18,7 @@ export default {
   },
   mounted() {
     this.$site.pages.forEach(page => {
-      if (page.frontmatter.type === 'article') {
+      if (page.path.startsWith('/Articles/')) {
         this.pages.push(page)
       }
     })
