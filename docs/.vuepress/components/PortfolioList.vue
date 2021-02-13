@@ -17,7 +17,7 @@ export default {
   },
   mounted() {
     this.$site.pages.forEach(page => {
-      if (page.frontmatter.type === 'portfolio') {
+      if (page.path.startsWith('/Projects/')) {
         this.pages.push(page)
       }
     })
