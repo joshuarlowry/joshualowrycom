@@ -1,6 +1,7 @@
 ---
 title: "3 Steps: How I'm utilizing my free time more effectively."
 date: "2017-05-03"
+description: "When I feel like I haven't been very productive I think a lot about how retirement would certainly free me up to do \"all that stuff\" that I wish I could do."
 categories: 
   - "motivation"
 ---
@@ -21,7 +22,7 @@ This resonates with me, and there are so many little initiatives I have wanted t
 
 It doesn't do you much good to talk about utilizing free time without first making an inventory. I divided a sticky note into twenty-four boxes. Each, of course, representing an hour. This is roughly what I think my day looks like if everything goes according to plan.
 
-\[caption id="attachment\_1091" align="alignnone" width="1480"\]![LifeOnASticky.jpg](images/lifeonasticky.jpg) 24 Hours... eating, sleeping, commuting, working, working out, socializing with my family, showering, reading, and "other stuff".\[/caption\]
+\[caption id="attachment\_1091" align="alignnone" width="1480"\]![LifeOnASticky.jpg](./images/lifeonasticky.jpg) 24 Hours... eating, sleeping, commuting, working, working out, socializing with my family, showering, reading, and "other stuff".\[/caption\]
 
 While this looks like a pretty good plan, I think that things like reading and fitness frequently fall off the plate, so they should probably be listed as "?" as well. With that I should have roughly 4 hours of time that disappears and even other things on the plate like sleep slip into oblivion.
 

@@ -1,6 +1,7 @@
 ---
 title: "Case Study: Camera Rental"
 date: "2017-08-09"
+description: "I am renting camera equipment for an upcoming trip, and I found the user journey to be kind of interesting. I will first detail my journey for renting the equipment, talk about challenges I had with the site, and then talk about how I came up with a pricing model that should enable a new UI design."
 categories: 
   - "design"
   - "usability"
@@ -43,14 +44,14 @@ I made an initial assumption that the owner of this rental shop has some method 
 
  I created a table for the camera body I planned to rent using Google Sheets. Then, I benchmarked each "discounted" value compared to the 1-day rental. I came up with this chart, which then I used the trend to create a power series through the points.
 
-\[caption id="attachment\_1841" align="alignnone" width="600"\]![A chart showing a series of points that represent the discount of camera equipment compared to the number of rental days.](images/chart.png) As the days increases the discount starts to flatten out. Not all of the points match perfectly, but this probably isn't significant.\[/caption\]
+\[caption id="attachment\_1841" align="alignnone" width="600"\]![A chart showing a series of points that represent the discount of camera equipment compared to the number of rental days.](./images/chart.png) As the days increases the discount starts to flatten out. Not all of the points match perfectly, but this probably isn't significant.\[/caption\]
 
 Then, I used the power series trend to create a new table with different values to show how the discounts would scale. I also added the other pieces of equipment and then tuned the equation to roughly match my rental total.
 
-\[caption id="attachment\_1845" align="alignnone" width="600"\]![A chart showing the trend of my calculated discount values including](images/calculateddiscountchart.png) With a few tweaks of the equation, I was able to come up with a curve that fits well to even a long duration such as 50 days.\[/caption\]
+\[caption id="attachment\_1845" align="alignnone" width="600"\]![A chart showing the trend of my calculated discount values including](./images/calculateddiscountchart.png) With a few tweaks of the equation, I was able to come up with a curve that fits well to even a long duration such as 50 days.\[/caption\]
 
  After this, I went on to look into the insurance cost per day. It roughly looks like a 10% addition. This makes sense because the longer someone has the equipment the more chances there are for something to happen.
 
-\[caption id="attachment\_1853" align="alignnone" width="600"\]![A chart showing the price after the discount and the price with insurance for the duration of rental. The trend shows that the non-linear nature of the pricing.](images/calculatedtotalbill-e1500837951703.png) We can see in this chart that the longer you rent the flatter the line gets. This prevents the cost of rental from becoming extremely high for people wanting to rent but not own. Without the discount equation, the equipment would cost over $1500 for a 10-day rental for reference.\[/caption\]
+\[caption id="attachment\_1853" align="alignnone" width="600"\]![A chart showing the price after the discount and the price with insurance for the duration of rental. The trend shows that the non-linear nature of the pricing.](./images/calculatedtotalbill-e1500837951703.png) We can see in this chart that the longer you rent the flatter the line gets. This prevents the cost of rental from becoming extremely high for people wanting to rent but not own. Without the discount equation, the equipment would cost over $1500 for a 10-day rental for reference.\[/caption\]
 
 Now that we can easily calculate the cost of equipment based on the 1-day rental and the number of days we can create a new UI that will allow users to select their rental dates and see exactly how much they need to pay.

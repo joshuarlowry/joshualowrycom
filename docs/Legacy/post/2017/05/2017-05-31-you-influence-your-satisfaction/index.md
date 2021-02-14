@@ -1,6 +1,7 @@
 ---
 title: "You Influence Your Satisfaction"
 date: "2017-05-31"
+description: "Things in your career and life don't always go as expected. Maybe you didn't plan, or maybe you had some assumptions about how everything would work."
 categories: 
   - "redesign"
   - "sketch"

@@ -1,6 +1,7 @@
 ---
 title: "Sketch Art Concept to Reality with Inkscape"
 date: "2017-08-02"
+description: "I am back at it again with Inkscape. I have regularly sketched these interesting layered art concepts where it looks like each layer has been cut away to reveal more depth. Below are just a few I had on hand."
 categories: 
   - "design"
   - "sketch"
@@ -19,7 +20,7 @@ The heart I drew using the bezier curve with an outline of each shape stacked on
 
  
 
-\[caption id="attachment\_1728" align="alignnone" width="2304"\]![HeartCutout.png](images/heartcutout.png) Layers of depth down to the heart. See through me.\[/caption\]
+\[caption id="attachment\_1728" align="alignnone" width="2304"\]![HeartCutout.png](./images/heartcutout.png) Layers of depth down to the heart. See through me.\[/caption\]
 
  
 
@@ -27,6 +28,6 @@ In this one, I experimented with just circle cutouts, but with more layers. I di
 
  
 
-\[caption id="attachment\_media-18" align="alignnone" width="2304"\]![CircleCutoutsvg.png](images/circlecutoutsvg.png) Clean lines and an array of colors. This one makes me wonder how deep it goes.\[/caption\]
+\[caption id="attachment\_media-18" align="alignnone" width="2304"\]![CircleCutoutsvg.png](./images/circlecutoutsvg.png) Clean lines and an array of colors. This one makes me wonder how deep it goes.\[/caption\]
 
 Overall, this technique was pretty simple to do in Inkscape. Once I got used to the keyboard shortcuts things got a lot quicker.

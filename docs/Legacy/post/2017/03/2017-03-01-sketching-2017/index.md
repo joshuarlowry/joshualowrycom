@@ -1,6 +1,7 @@
 ---
 title: "Sketching 2017"
 date: "2017-03-01"
+description: "Sketching is one of the best tools for rapid communication and iteration. It is a skill that improves with practice, and in 2017 I'm practicing more than ever. Today, I'm sharing some of the tools I use for practice and some of the sketches I have made so far this year."
 categories: 
   - "sketch"
 coverImage: "sketchtools.jpg"
@@ -10,7 +11,7 @@ Sketching is one of the best tools for rapid communication and iteration. It is
 
 # Tools
 
-![sketchtools](images/sketchtools.jpg)
+![sketchtools](./images/sketchtools.jpg)
 
 Here are some of my tools for practice from top to bottom. You'll notice they're all Sharpie brand. Sharpies are great pens for practicing sketching. They are fairly inexpensive but produce quality sketches. 
 
@@ -20,7 +21,7 @@ Here are some of my tools for practice from top to bottom. You'll notice they're
 4. Sharpie Ultra Fine Orange - For annotations
 5. Sharpie Fine Gray - For shadows
 
-![IMG_20170204_153716.jpg](images/img_20170204_153716.jpg)
+![IMG_20170204_153716.jpg](./images/img_20170204_153716.jpg)
 
 I'm currently storing my sketches in this Whitelines Squared notebook. The grids are pretty subtle, and are typically not distracting. Here is what it looks like from my phone. The lines are supposed to disappear when scanned as well.
 

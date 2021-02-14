@@ -1,6 +1,7 @@
 ---
 title: "Why research informed MVPs rock!"
 date: "2017-07-05"
+description: "I hear a lot of buzz on both sides of the MVP argument. Some say, MVPs are great, others say that they are trouble."
 categories: 
   - "product"
 tags: 

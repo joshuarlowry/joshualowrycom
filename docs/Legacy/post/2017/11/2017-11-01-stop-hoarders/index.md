@@ -1,6 +1,7 @@
 ---
 title: "Stop Hoarders"
 date: "2017-11-01"
+description: " "
 categories: 
   - "design"
   - "experience"
@@ -21,7 +22,7 @@ This book made me think about my home and possessions, but it also got me thinki
 
  
 
-\[caption id="" align="alignright" width="262"\][![The Life-Changing Magic of Tidying Up cover art](images/61nBw77qi6L._SL500_.jpg)](https://www.audible.com/pd/Self-Development/The-Life-Changing-Magic-of-Tidying-Up-Audiobook/B00RC3M6OG) [Title art for the Audible Version of "The life-changing magic of tidying up." by Marie Kondo.](https://www.audible.com/pd/Self-Development/The-Life-Changing-Magic-of-Tidying-Up-Audiobook/B00RC3M6OG)\[/caption\]
+\[caption id="" align="alignright" width="262"\][![The Life-Changing Magic of Tidying Up cover art](./images/61nBw77qi6L._SL500_.jpg)](https://www.audible.com/pd/Self-Development/The-Life-Changing-Magic-of-Tidying-Up-Audiobook/B00RC3M6OG) [Title art for the Audible Version of "The life-changing magic of tidying up." by Marie Kondo.](https://www.audible.com/pd/Self-Development/The-Life-Changing-Magic-of-Tidying-Up-Audiobook/B00RC3M6OG)\[/caption\]
 
 We should be giving this much attention to our products. People love coming up with ideas, and without a proper filter, like the joy that Marie Kondo mentions in her book, these ideas end up in our products.
 

@@ -1,6 +1,7 @@
 ---
 title: "Day One"
 date: "2017-02-04"
+description: "Hello and welcome,"
 categories: 
   - "design"
   - "sketch"

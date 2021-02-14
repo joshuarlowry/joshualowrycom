@@ -1,6 +1,7 @@
 ---
 title: "Cartography for Tabletop Gaming"
 date: "2018-06-06"
+description: "Recently, I have been enthralled with the work of [Dyson Logos](http://www.dysonlogos.com/). Over the last several weeks I have been watching as Dyson posted map after map of beautifully drawn maps. Being a fan of sketching, I was drawn naturally to the allure of gaming cartography. I had one problem, I just needed to sit down and make something."
 categories: 
   - "design"
   - "experience"
@@ -15,7 +16,7 @@ Last Friday, I was a player in the Dungeons and Dragons (5e for those interested
 
 I did some research on [Dysonizing Dungeons](https://rpgcharacters.wordpress.com/2013/09/25/dysonize-your-dungeon/), and while I had been playing with my own versions of Dyson's [advanced style](https://rpgcharacters.wordpress.com/2013/09/28/advanced-dyson-dungeons/) with small sketches of maps, I decided to leave that for the future.
 
-![Josh's Dyson-like style small](images/1528249676994-8ab90b59-5a8f-433c-978f-9bbd3efee29e-e1528249949440.jpg)
+![Josh's Dyson-like style small](./images/1528249676994-8ab90b59-5a8f-433c-978f-9bbd3efee29e-e1528249949440.jpg)
 
 I started by sketching out each of the rooms, counting out each of the components to come close or match the original design of the dungeon as closely as possible. I did not realize how large the map was. It did not fit on my paper at all. I should have scrapped it as soon as I realized this, but I was more interested in getting a final product (just make a map already).
 

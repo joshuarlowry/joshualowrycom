@@ -1,6 +1,7 @@
 ---
 title: "Minimalist Wardrobe FTW!"
 date: "2017-03-29"
+description: "> \"You'll see I wear only gray or blue suits,\" \[Obama\] said. \"I'm trying to pare down decisions. I don't want to make decisions about what I’m eating or wearing. Because I have too many other decisions to make.\""
 categories: 
   - "design"
 coverImage: "579_slp1-e1499485908811.jpg"
@@ -25,7 +26,7 @@ Design your minimalist wardrobe to feel and look your best.
 
 Separate your clothes into two piles. Fits and doesn't fit. Donate anything that doesn't fit, because things that don't fit hide your good qualities and make you feel frumpy. _Companies like Men's Wearhouse will give you an in-store voucher for donating things like suits during promotion periods. This can be handy for future steps._ 
 
-**![KeepDonateTrash.jpg](images/keepdonatetrash.jpg)**
+**![KeepDonateTrash.jpg](./images/keepdonatetrash.jpg)**
 
 Start taking notes as you wear the remaining clothes. Ask yourself, "Do I feel confident when I wear this?" If you have someone who will give you honest feedback ask them, "Do I look good wearing this?" If the answers are anything except for a resounding "YES!", donate it.
 
@@ -37,7 +38,7 @@ By now, you may not have enough clothes to make it through the week. Take what y
 
 Here is what my wardrobe looks like:
 
-![Wardrobe](images/wardrobe.jpg)
+![Wardrobe](./images/wardrobe.jpg)
 
 1. One gray suit and a few ties
 2. Four Blank Label tailored shirts
