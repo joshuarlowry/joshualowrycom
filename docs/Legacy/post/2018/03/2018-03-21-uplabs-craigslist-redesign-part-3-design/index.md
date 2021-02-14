@@ -1,7 +1,6 @@
 ---
 title: "UpLabs Craigslist Redesign Part 3: Design"
 date: "2018-03-21"
-description: "This is part three of my [Uplabs](http://www.uplabs.com/challenges) Craigslist redesign challenge. You can read post one and two which cover some basic overviews of the Craigslist site as well as a Persona, Scenario, and Journey Map I will use today."
 categories: 
   - "design"
   - "redesign"

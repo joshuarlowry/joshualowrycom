@@ -1,7 +1,6 @@
 ---
 title: "Unsolicited Redesign #1 - Redbox Email"
 date: "2017-03-22"
-description: "I have the \"Design Bug,\" which is a clinical way of saying that I find myself wondering how I could improve experiences that I have. Redesigning things is fun and relaxing, and can also be a good way to demonstrate design process."
 categories: 
   - "redesign"
 tags: 
@@ -16,7 +15,7 @@ _Formatting note: Over the first few Unsolicited Redesigns, I will be working on
 
 # The User Problem
 
-\[caption id="attachment\_387" align="alignnone" width="863"\]![emailstart](./images/emailstart.png) The Redbox email, before scrolling. ([See Full Email](https://joshualowrycom.files.wordpress.com/2017/03/2017-02-04-15-52-inbox-google-com.png))\[/caption\]
+\[caption id="attachment\_387" align="alignnone" width="863"\]![emailstart](images/emailstart.png) The Redbox email, before scrolling. ([See Full Email](https://joshualowrycom.files.wordpress.com/2017/03/2017-02-04-15-52-inbox-google-com.png))\[/caption\]
 
  
 
@@ -35,9 +34,9 @@ I didn't notice any of the content or options below the initial screen until I s
 
 I would classify this email as having two parts. Part one is all of the information that I need to get the rental that I purchased. Part two is for marketing and engagement. This is where Redbox is trying to drive repeat business from me right before I'm about to pick up something I have already purchased.
 
-\[caption id="attachment\_405" align="alignnone" width="917"\]![emailimportantinfo](./images/emailimportantinfo.png) The most important component of this email is where my rental is housed. I completely missed the KioskC, which appears here as a single word as an afterthought on the location. This feels like a holdover from the days when there may have only been one machine. If I can get this information, I can get my movie from the machine!\[/caption\]
+\[caption id="attachment\_405" align="alignnone" width="917"\]![emailimportantinfo](images/emailimportantinfo.png) The most important component of this email is where my rental is housed. I completely missed the KioskC, which appears here as a single word as an afterthought on the location. This feels like a holdover from the days when there may have only been one machine. If I can get this information, I can get my movie from the machine!\[/caption\]
 
-\[caption id="attachment\_406" align="alignnone" width="917"\]![emailmarketing](./images/emailmarketing.png) Redbox is trying to get many things from me here. Sign up for text messages (three times), download an app, inform me that I can return my rental anywhere, and also tell me about other movies that I could rent.\[/caption\]
+\[caption id="attachment\_406" align="alignnone" width="917"\]![emailmarketing](images/emailmarketing.png) Redbox is trying to get many things from me here. Sign up for text messages (three times), download an app, inform me that I can return my rental anywhere, and also tell me about other movies that I could rent.\[/caption\]
 
 # Design
 
@@ -51,17 +50,17 @@ Here are my goals:
 
 Here is the full view of the Redbox email sketch as it would be viewed on a desktop/laptop.
 
-\[caption id="attachment\_454" align="alignnone" width="2287"\]![img_20170204_152655](./images/img_20170204_1526552.jpg) I kept the dog in the email because Redbox uses dogs in many of their emails and it is a unique/memorable touch. I removed some of the accompanying graphics because they were getting in the way. _Disclosure: I realized I could do more rearranging after making this sketch. It was super cheap to just redraw it below with less detail._ \[/caption\]
+\[caption id="attachment\_454" align="alignnone" width="2287"\]![img_20170204_152655](images/img_20170204_1526552.jpg) I kept the dog in the email because Redbox uses dogs in many of their emails and it is a unique/memorable touch. I removed some of the accompanying graphics because they were getting in the way. _Disclosure: I realized I could do more rearranging after making this sketch. It was super cheap to just redraw it below with less detail._ \[/caption\]
 
 ## Goal 1: Improve the four-step process
 
-![emailsketchsegment1](./images/emailsketchsegment11.jpg)
+![emailsketchsegment1](images/emailsketchsegment11.jpg)
 
 The most important part of this email is understanding where to get your movie. It is still four steps, but I pulled the kiosk away from the address. This allowed me to create a graphic that would emphasize which kiosk it is and indicate that there would be more than one. The dog now looks like it is retrieving my movie.
 
 ## Goal 2: Reduce unnecessary transaction information.
 
-![emailsketchsegment2](./images/emailsketchsegment2.jpg)
+![emailsketchsegment2](images/emailsketchsegment2.jpg)
 
 The visa card was one of the duplicated items on the screen. It is more important to show it as part of the four-step process because, without it, you can't pick up your movie. The positioning felt like it broke the flow of the screen, and was causing formatting issues on smaller screens, like my phone... See below how the original looks on my phone and a sketched version of how this design would be laid out on the phone.
 
@@ -71,7 +70,7 @@ The visa card was one of the duplicated items on the screen. It is more importan
 
 ## Goal 3: Rearrange Marketing and Engagement
 
-![emailsketchsegment3](./images/emailsketchsegment3.jpg)
+![emailsketchsegment3](images/emailsketchsegment3.jpg)
 
  
 

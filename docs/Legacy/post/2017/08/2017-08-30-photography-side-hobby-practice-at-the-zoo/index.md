@@ -1,7 +1,6 @@
 ---
 title: "Photography Side Hobby - Practice at the Zoo"
 date: "2017-08-30"
-description: "A few posts ago I mentioned renting camera equipment. It was finally time to pick up and use the equipment in advance of vacation (where the real use begins)."
 categories: 
   - "off-topic"
 coverImage: "dsc_0321_00017-effects.jpg"
@@ -23,7 +22,7 @@ Here are my basic warm-ups with the lemurs. There are a few here that aren't qui
 
 Next, we stopped to take a few photos of this vibrant orangutan. Unfortunately, this guy was sitting right in front of a strap.
 
-![DSC_0295_00012](./images/dsc_0295_00012.jpg)![DSC_0289_00011](./images/dsc_0289_00011.jpg)
+![DSC_0295_00012](images/dsc_0295_00012.jpg)![DSC_0289_00011](images/dsc_0289_00011.jpg)
 
 Following this, we saw a beautiful tiger taking a drink at the stream in his enclosure.
 
@@ -47,4 +46,4 @@ At this point, I decided to switch to the 200-500mm lens, because the chimpanzee
 
 Finally, I leave you with this incredibly detailed photo of an Emu. This emu seemed intrigued with something in my general direction. I took this photo between two cables in the enclosure.
 
-![DSC_0621_00052](./images/dsc_0621_00052.jpg)
+![DSC_0621_00052](images/dsc_0621_00052.jpg)

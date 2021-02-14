@@ -1,7 +1,6 @@
 ---
 title: "Who's Afraid of Clowns?"
 date: "2017-03-15"
-description: "I'm a big fan of the [What to Draw](https://play.google.com/store/apps/details?id=llamaze.com.br.whattodraw&hl=en) app on Android, which gives random sketch prompts. This one stood out to me as being something that would be fun."
 categories: 
   - "sketch"
 tags: 
@@ -19,7 +18,7 @@ There were some elements of the movie that I initially thought would be neat in
 
 Below is a page of initial sketches I drew while watching the movie. I'm not sure why, but I decided instantly that the "food" would be a sandwich.
 
-[![](./images/wp-image-1611819243jpg.jpg)](http://joshualowrycom.files.wordpress.com/2017/02/wp-image-1611819243jpg.jpg)
+[![](images/wp-image-1611819243jpg.jpg)](http://joshualowrycom.files.wordpress.com/2017/02/wp-image-1611819243jpg.jpg)
 
 I decided that both the clown and the food needed to be large and detailed. I also wanted the food to be running while the clown would appear stationary. This would help give the clown a menacing look. An old-school classic horror film villain, who barely moves yet manages to catch his prey.
 
@@ -27,7 +26,7 @@ Below is the final sketch. I think it didn't come out quite as elaborate as som
 
 My final clown may not have looked as crazed as the initial sketches, but I think he looks pretty freaky.
 
-![wp-1486331238408.jpg](./images/wp-1486331238408.jpg)
+![wp-1486331238408.jpg](images/wp-1486331238408.jpg)
 
  
 

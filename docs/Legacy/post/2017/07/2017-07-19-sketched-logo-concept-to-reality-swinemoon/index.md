@@ -1,7 +1,6 @@
 ---
 title: "Sketched Logo Concept to Reality: SwineMoon"
 date: "2017-07-19"
-description: "I remembered sketching a cool pig and a moon concept years ago, but I couldn't recall if I had taken a picture of it. I went to my Google photos and started sifting. Then I had the great idea to try searching for the term \"Yellow\" because I thought it might have been on a yellow sticky note. While I got many great photos with the color yellow, this one was not there. Then, I went out on a limb and tried to search for the term \"sketch\". I was shocked at how well Google identified my sketches! There it was, near the bottom. This should tell you how long ago this sketch was created. _In fact, Google claims the photo was taken back in September 2011!_"
 categories: 
   - "design"
   - "usability"
@@ -12,7 +11,7 @@ I remembered sketching a cool pig and a moon concept years ago, but I couldn't r
 
 I wanted to see what it might require making it come to life using free tools, so I picked up Inkscape. I never lock myself into a single tool, because there is no single tool to rule them all. If a tool is necessary to get the job done, I will pick it up.
 
-\[caption id="attachment\_1718" align="aligncenter" width="434"\]![swinemoon.jpg](./images/swinemoon.jpg) My basic 1-minute sketch on a sticky note. I would have taken a better picture, but the sticky note is long gone.\[/caption\]
+\[caption id="attachment\_1718" align="aligncenter" width="434"\]![swinemoon.jpg](images/swinemoon.jpg) My basic 1-minute sketch on a sticky note. I would have taken a better picture, but the sticky note is long gone.\[/caption\]
 
 I'm completely new to Inkscape, so I went and watched a quick tutorial on youtube. This particular tutorial gave me a decent command of the application.
 

@@ -1,7 +1,6 @@
 ---
 title: "The Why You Do It"
 date: "2017-05-24"
-description: "I recently re-watched a great TED talk by Simon Sinek titled \"How great leaders inspire action\"."
 categories: 
   - "motivation"
   - "product"
@@ -41,7 +40,7 @@ The difference is astonishing to me.
 
 The first 16% of the potential user base is effectively free if you have a good product. Hell, the top 2.5% will probably use the product just so they can say they were first. We know this because many of these people sleep outside of the apple store for the latest gadget even though they could wait a week and get it without the hassle. Simon also talks about the people who were the first to buy in to early versions of the flat screen televisions before the technology was even good. \[See: [Diffusion of Innovation](https://en.wikipedia.org/wiki/Diffusion_of_innovations)\]
 
-To cross "the gap" you need to start by communicating your why. ![why16to100.jpg](./images/why16to100.jpg)
+To cross "the gap" you need to start by communicating your why. ![why16to100.jpg](images/why16to100.jpg)
 
  
 
@@ -49,6 +48,6 @@ After you trip over the first 16%, the next 68% will start rolling in only after
 
 The hard truth is, the final 16% are harder to capture. They would still be rocking rotary phones if we hadn't forced them to move to a dial tone phone.
 
-\[caption id="" align="aligncenter" width="800"\]![](./images/800px-Diffusion_of_ideas.svg.png) The top 16% are Innovators and Early Adopters. The Early Majority need the Innovators and Early Adopters to try your product first. Sourced from [Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations#/media/File:Diffusion_of_ideas.svg).\[/caption\]
+\[caption id="" align="aligncenter" width="800"\]![](images/800px-Diffusion_of_ideas.svg.png) The top 16% are Innovators and Early Adopters. The Early Majority need the Innovators and Early Adopters to try your product first. Sourced from [Wikipedia](https://en.wikipedia.org/wiki/Diffusion_of_innovations#/media/File:Diffusion_of_ideas.svg).\[/caption\]
 
 In the enterprise, management is quick to throw people at your product if they believe it is good. If these people aren't actually the type to be innovators or early adopters, this can cost you later. You really want someone who is interested in trying new things and put up with some growing pains to be your first users!

@@ -1,7 +1,6 @@
 ---
 title: "UpLabs Craigslist Redesign Part 2: Vision"
 date: "2018-03-14"
-description: "This is part two of my [Uplabs](http://www.uplabs.com/challenges) Craigslist redesign challenge. Last time, I reviewed several of the pages of the Craigslist Website and identified some stumbling blocks as well as positive components. Next, I will build up some artifacts that will help inform the design process."
 categories: 
   - "design"
   - "redesign"
@@ -16,7 +15,7 @@ With a site as large as Craigslist, one cannot jump into designing without a str
 
 # Persona
 
-![Sam Searsher](./images/pexels-photo-220453.jpeg)
+![Sam Searsher](images/pexels-photo-220453.jpeg)
 
 ## Sam Searsher
 
@@ -38,7 +37,7 @@ He searches for Craigslist Houston and opens the website home page. He navigates
 
 Today, the journey looks like the following.
 
-![CraigslistJourneyMap.png](./images/craigslistjourneymap3.png)
+![CraigslistJourneyMap.png](images/craigslistjourneymap3.png)
 
 1. **Sam selects a category:** This experience is pretty straightforward for Sam, he quickly identifies that he needs to choose the housing option.
 2. **Selects a subcategory:** He taps a second time to choose "apts/housing" without much hesitation.

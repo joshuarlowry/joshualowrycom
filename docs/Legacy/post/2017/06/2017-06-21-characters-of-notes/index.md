@@ -1,7 +1,6 @@
 ---
 title: "Characters of Notes"
 date: "2017-06-21"
-description: "I figured it is about time to reveal some of the characters of my notes. Over time I have been trying to draw, with a short amount of time, characters in my notes. Typically this is someone who has said something interesting in a meeting or the person delivering a presentation. Shout out if you see yourself. I also sometimes draw characters when I need to get my creative juices flowing, so some of these are characters that don't relate to anyone in particular."
 categories: 
   - "sketch"
 coverImage: "characters-of-notes-6-19_13.jpg"

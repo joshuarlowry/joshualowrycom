@@ -1,7 +1,6 @@
 ---
 title: "The Big Three Zero"
 date: "2017-03-08"
-description: "Today, I'm crossing over a major milestone. I suppose this makes me an adult. The average age of retirement is over sixty years old, which means that I still have all of the life I have lived before I even retire. This is great news because I have plenty of time to grow and explore!"
 categories: 
   - "sketch"
 coverImage: "gem.jpeg"
@@ -23,6 +22,6 @@ As you can see, some of my blends are better than others. The two caricatures ar
 
 In addition, I wanted to try my hand at using some of the colors for an application sketch. I have been slowly building an application to use for playing Pathfinder with my friends virtually. Here is a sketch of how I'm imagining the main application will look.
 
-\[caption id="attachment\_794" align="aligncenter" width="3447"\]![img_20170305_203156-01](./images/img_20170305_203156-01.jpg) Quick sketch with some color that represents the tabletop gaming app I'm building. The colors surrounding the "G" token show how far the character can move. In this case, Grognath is very slow. In this sketch, I'm imagining that the left vertical list will contain player characters and the right list will contain enemies of the party.\[/caption\]
+\[caption id="attachment\_794" align="aligncenter" width="3447"\]![img_20170305_203156-01](images/img_20170305_203156-01.jpg) Quick sketch with some color that represents the tabletop gaming app I'm building. The colors surrounding the "G" token show how far the character can move. In this case, Grognath is very slow. In this sketch, I'm imagining that the left vertical list will contain player characters and the right list will contain enemies of the party.\[/caption\]
 
 Thank you to my family, if you are reading this. :)

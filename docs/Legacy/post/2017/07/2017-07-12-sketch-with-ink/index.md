@@ -1,7 +1,6 @@
 ---
 title: "Sketch with ink!"
 date: "2017-07-12"
-description: "Sketching with ink is definitely the right strategy for the UX field. Ink is so rigid and yet so flexible."
 categories: 
   - "sketch"
 coverImage: "sketch-with-ink.jpg"

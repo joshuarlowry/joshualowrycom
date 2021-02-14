@@ -1,7 +1,6 @@
 ---
 title: "Great product design starts with no."
 date: "2017-11-15"
-description: "The easy thing to do for any product development is adding features. Sometimes the features we do implement are as important (if not more) than those we do not. To do this, we need a strategy and backing research to be able to say no to the superfluous and focus on the necessary. Research does not need to be a large effort, and you don't have to halt work to get it. Here are two strategies to get started."
 categories: 
   - "design"
   - "off-topic"
@@ -13,7 +12,7 @@ The easy thing to do for any product development is adding features. Sometimes t
 
  
 
-\[caption id="attachment\_media-64" align="alignnone" width="4000"\]![dustin-lee-19667.jpg](./images/dustin-lee-19667.jpg) Focus on Basic Deliverables and get those things right! Photo by [Dustin Lee](https://unsplash.com/photos/jLwVAUtLOAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]
+\[caption id="attachment\_media-64" align="alignnone" width="4000"\]![dustin-lee-19667.jpg](images/dustin-lee-19667.jpg) Focus on Basic Deliverables and get those things right! Photo by [Dustin Lee](https://unsplash.com/photos/jLwVAUtLOAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]
 
  
 
@@ -23,7 +22,7 @@ Identify and define the basic workflow and create the necessary components for y
 
  
 
-\[caption id="attachment\_2447" align="alignnone" width="3556"\]![mari-lezhava-265675.jpg](./images/mari-lezhava-265675.jpg) Create touchpoint opportunities with your customers. Photo by [mari lezhava](https://unsplash.com/photos/q65bNe9fW-w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]
+\[caption id="attachment\_2447" align="alignnone" width="3556"\]![mari-lezhava-265675.jpg](images/mari-lezhava-265675.jpg) Create touchpoint opportunities with your customers. Photo by [mari lezhava](https://unsplash.com/photos/q65bNe9fW-w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\[/caption\]
 
  
 

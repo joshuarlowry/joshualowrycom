@@ -1,7 +1,6 @@
 ---
 title: "Stop worrying and just sketch!"
 date: "2017-06-28"
-description: "So many people tell me that their sketches aren't good, but they are just overworking it! People assume that a sketch has to be beautiful, with straight, clean lines, and maybe even a little color. They are wrong."
 categories: 
   - "sketch"
 tags: 
@@ -14,7 +13,7 @@ So many people tell me that their sketches aren't good, but they are just overwo
 
 To demonstrate my point. Let's talk about compound interest. Anytime we sketch data visualizations it can be tempting to put in real numbers. This can be time-consuming and unnecessary for the purpose. See below some simple sketches.
 
-\[caption id="attachment\_1512" align="alignnone" width="2872"\]![basic sketch_1.jpg](./images/basic-sketch_1.jpg) Left, a representation of what your savings account looks like over time if you don't earn interest. Right, a representation of the compounding interest you earn on the money you put in.\[/caption\]
+\[caption id="attachment\_1512" align="alignnone" width="2872"\]![basic sketch_1.jpg](images/basic-sketch_1.jpg) Left, a representation of what your savings account looks like over time if you don't earn interest. Right, a representation of the compounding interest you earn on the money you put in.\[/caption\]
 
  
 
@@ -26,7 +25,7 @@ I have adjusted the axes to have the same range across the plots. This helps sho
 
  
 
-\[caption id="attachment\_1528" align="alignnone" width="3236"\]![basic sketch_3.jpg](./images/basic-sketch_3.jpg) Y-axis have the same data range. The right-most representation shows the two lines together.\[/caption\]
+\[caption id="attachment\_1528" align="alignnone" width="3236"\]![basic sketch_3.jpg](images/basic-sketch_3.jpg) Y-axis have the same data range. The right-most representation shows the two lines together.\[/caption\]
 
  
 
@@ -36,7 +35,7 @@ Now, I can use the data visualization in a mockup of a quick calculator.
 
  
 
-\[caption id="attachment\_1546" align="alignnone" width="2456"\]![basic sketch_4.jpg](./images/basic-sketch_4.jpg) A simple interest calculator.\[/caption\]
+\[caption id="attachment\_1546" align="alignnone" width="2456"\]![basic sketch_4.jpg](images/basic-sketch_4.jpg) A simple interest calculator.\[/caption\]
 
  
 

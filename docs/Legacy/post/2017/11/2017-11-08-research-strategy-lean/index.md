@@ -1,7 +1,6 @@
 ---
 title: "Research Strategy: Lean"
 date: "2017-11-08"
-description: "Lean UX to me is a method for prioritizing evaluative research over generative research. In the long run, you will have the same research information, but the product will have been delivered dozens of times to the customer already. It sounds like a great win on the surface, but it requires a large commitment on the part of the entire team."
 categories: 
   - "design"
   - "product"
@@ -14,7 +13,7 @@ The product owner (hopefully only one real person) needs to prioritize verticall
 
  
 
-\[caption id="" align="aligncenter" width="600"\]![](./images/98b537125146e89932be2d7c4136542d.jpg) This diagram by [@jopas](https://twitter.com/jopas) showing how Minimum Viable Products (MVP) are created.\[/caption\]
+\[caption id="" align="aligncenter" width="600"\]![](images/98b537125146e89932be2d7c4136542d.jpg) This diagram by [@jopas](https://twitter.com/jopas) showing how Minimum Viable Products (MVP) are created.\[/caption\]
 
  
 
@@ -22,7 +21,7 @@ Your dev-ops stable team (assuming this exists) is strong and has a knack and dr
 
  
 
-\[caption id="" align="alignnone" width="800"\]![](./images/F1-Long-lived-Agile-Release-Train_WP-2.png) Diagram depicting the release train from the [Scaled Agile Framework (SAFe) website](http://www.scaledagileframework.com/agile-release-train/).\[/caption\]
+\[caption id="" align="alignnone" width="800"\]![](images/F1-Long-lived-Agile-Release-Train_WP-2.png) Diagram depicting the release train from the [Scaled Agile Framework (SAFe) website](http://www.scaledagileframework.com/agile-release-train/).\[/caption\]
 
  
 

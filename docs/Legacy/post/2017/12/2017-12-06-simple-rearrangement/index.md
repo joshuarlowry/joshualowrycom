@@ -1,7 +1,6 @@
 ---
 title: "Simple Rearrangement"
 date: "2017-12-06"
-description: "Sometimes good designs can become great designs by rearranging the parts. I find that the best arrangement for tasks closely mirrors the way we do things without technology. The closer we match these experiences the easier our system will be to use. As a bonus, rearranging interfaces is typically pretty simple and low cost."
 categories: 
   - "design"
   - "experience"

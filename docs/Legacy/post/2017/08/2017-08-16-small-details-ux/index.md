@@ -1,7 +1,6 @@
 ---
 title: "Small Details UX"
 date: "2017-08-16"
-description: "Sometimes the best user experiences aren't that you went through and did a ton of research to re-architect the entire experience, but that you thought about what could be valuable and made something just a bit better."
 categories: 
   - "experience"
 coverImage: "coffee-1030971_1920.jpg"

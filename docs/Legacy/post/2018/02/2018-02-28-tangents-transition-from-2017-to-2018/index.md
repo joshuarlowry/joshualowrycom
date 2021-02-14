@@ -1,7 +1,6 @@
 ---
 title: "Tangents Transition From 2017 to 2018"
 date: "2018-02-28"
-description: "I took a great winter break. I have been having a ton of fun doing an assortment of things. It is only fair that I catch you up on some of the things I have been doing."
 categories: 
   - "off-topic"
 coverImage: "mvimg_20180225_135302.jpg"
@@ -15,7 +14,7 @@ I started playing Dungeons and Dragons (5e for nerds) with a new group of folks 
 
  
 
-![MVIMG_20171215_220241.jpg](./images/mvimg_20171215_220241-e1519588311353.jpg)
+![MVIMG_20171215_220241.jpg](images/mvimg_20171215_220241-e1519588311353.jpg)
 
 # Miniatures Painting
 
@@ -23,4 +22,4 @@ My friend Ron has gotten me started on model painting. It began with one miniatu
 
  
 
-\[caption id="attachment\_2480" align="alignnone" width="4032"\]![MVIMG_20180218_184343.jpg](./images/mvimg_20180218_184343.jpg) [Chthonian](https://en.wikipedia.org/wiki/Chthonian_(Cthulhu_Mythos)) from my board game Mansions of Madness\[/caption\]
+\[caption id="attachment\_2480" align="alignnone" width="4032"\]![MVIMG_20180218_184343.jpg](images/mvimg_20180218_184343.jpg) [Chthonian](https://en.wikipedia.org/wiki/Chthonian_(Cthulhu_Mythos)) from my board game Mansions of Madness\[/caption\]

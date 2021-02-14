@@ -1,7 +1,6 @@
 ---
 title: "Daily UI Challenge 6"
 date: "2018-05-23"
-description: "Initially, I felt a bit bored by Challenge 6. Once I started thinking about what I wanted to design, though, I remembered that I have a DND 5th Edition Campaign full of characters. Each character could have their own \"user\" profile. For those who are unfamiliar, characters in DND have all kinds of information you can track, including background information, stats for their capabilities, items they are holding, and more. This information is typically captured in a character sheet (example below)."
 categories: 
   - "design"
   - "xd"
@@ -10,15 +9,15 @@ coverImage: "challenge6.png"
 
 Initially, I felt a bit bored by Challenge 6. Once I started thinking about what I wanted to design, though, I remembered that I have a DND 5th Edition Campaign full of characters. Each character could have their own "user" profile. For those who are unfamiliar, characters in DND have all kinds of information you can track, including background information, stats for their capabilities, items they are holding, and more. This information is typically captured in a character sheet (example below).
 
-![erdh-capture](./images/erdh-capture.png)
+![erdh-capture](images/erdh-capture.png)
 
 This sheet is then used during play. I decided that it would be nice to this information on my phone. I used inspiration from DND Beyond to come up with what I should display.
 
-![erdhdndbeyond](./images/erdhdndbeyond.png)
+![erdhdndbeyond](images/erdhdndbeyond.png)
 
 I typed all of the components into the prototype and rearranged them into sections that I thought could be useful. In my imagination, I could use the menu options to turn on-and-off different sections as well as rearrange them. I used Pexels to find the character image. Interact with the prototype through [Creative Cloud](https://xd.adobe.com/view/faa954c6-67b0-409b-70dd-da4ed0feae07-8c98/).
 
-![Erdh-profile](./images/erdh-profile.png)
+![Erdh-profile](images/erdh-profile.png)
 
 # 20-Sided Die Design
 
@@ -36,4 +35,4 @@ Position the triangle above the half-point and a little off to one side. Then, u
 
 Finally, add the number.
 
-![20-sidedDie](./images/20-sideddie.png)
+![20-sidedDie](images/20-sideddie.png)
