@@ -7,6 +7,7 @@ description: It is interesting how sometimes the smallest things can trigger an 
 coverImage: img_20170416_202049.jpg
 ---
 
+# Am I Supposed to Cook It? How One Word Has Me Questioning My Order.
 It is interesting how sometimes the smallest things can trigger an emotion. Whether it is a word, a phrase, or even just [learning something new](http://theoatmeal.com/comics/believe). It is important in your design copy to use words relevant for your audience.
 
 Here I am ordering sushi from a local restaurant using a delivery service. Seems like a decent plan, but as I'm reading through the menu I start to realize that the sushi I typically order with a "raw" component says "uncooked".

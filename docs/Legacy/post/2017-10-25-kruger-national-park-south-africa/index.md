@@ -7,6 +7,7 @@ description: The climax of our trip was in Kruger National Park. For those who d
 coverImage: dsc_5692.jpg
 ---
 
+# Kruger National Park, South Africa
 The climax of our trip was in Kruger National Park. For those who don't know, Africa has "[The Big Five](https://en.wikipedia.org/wiki/Big_five_game)" game. We were lucky enough to see them all, but we didn't capture great photos of the Black Rhinoceros. During this part of the trip, we rented a vehicle. It was particularly interesting because they drive on the "wrong side" of the road.
 
 - African elephant

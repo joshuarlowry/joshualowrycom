@@ -8,6 +8,7 @@ description: Recently, I have been enthralled with the work of [Dyson Logos](ht
 coverImage: 1527966008053-7459074e-276b-4a84-bb31-8f9ced6b23ff_.jpg
 ---
 
+# Cartography for Tabletop Gaming
 Recently, I have been enthralled with the work of [Dyson Logos](http://www.dysonlogos.com/). Over the last several weeks I have been watching as Dyson posted map after map of beautifully drawn maps. Being a fan of sketching, I was drawn naturally to the allure of gaming cartography. I had one problem, I just needed to sit down and make something.
 
 Last Friday, I was a player in the Dungeons and Dragons (5e for those interested) game, so I didn't create the map. I took some photos of the table as we were nearing completion of the evening as well as drew a small sketch of the map near me on the table with some numbers so I could remember the story points. You can find my entire write-up including my final maps [here](https://sites.google.com/view/extant/home/612018).

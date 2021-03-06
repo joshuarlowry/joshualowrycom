@@ -9,6 +9,7 @@ description: The easy thing to do for any product development is adding features
 coverImage: ashim-d-silva-106275.jpg
 ---
 
+# Great product design starts with no.
 The easy thing to do for any product development is adding features. Sometimes the features we do implement are as important (if not more) than those we do not. To do this, we need a strategy and backing research to be able to say no to the superfluous and focus on the necessary. Research does not need to be a large effort, and you don't have to halt work to get it. Here are two strategies to get started.
 
  

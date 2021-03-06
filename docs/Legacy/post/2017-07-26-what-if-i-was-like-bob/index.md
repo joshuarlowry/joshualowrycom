@@ -7,6 +7,7 @@ description: I was out on the [Sketch Daily Reddit](https://www.reddit.com/r/Ske
 coverImage: self-portrait-bobs-burgers_31.jpg
 ---
 
+# Cartoon Self Portrait: Bob's Burgers
 I was out on the [Sketch Daily Reddit](https://www.reddit.com/r/SketchDaily/) again looking for sketch prompts. This time, it was a Cartoon Self Portrait in the style of your favorite cartoon. I'm a big fan of [Bob's Burgers](https://en.wikipedia.org/wiki/Bob%27s_Burgers), and I bear some resemblance to Bob I think.
 
 First, I took a look at some pictures of both myself and Bob. Here is what I used for inspiration.

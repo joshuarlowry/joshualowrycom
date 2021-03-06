@@ -10,6 +10,7 @@ description: I decided to participate in the [Uplabs](http://www.uplabs.com/cha
 coverImage: craigslist-desktop-copy.png
 ---
 
+# UpLabs Craigslist Redesign Part 1: Analysis
 I decided to participate in the [Uplabs](http://www.uplabs.com/challenges) Craigslist challenge. In short, they are looking for Craigslist redesigns as if Craigslist were released today. I find this particular challenge interesting because I think the design is simple and straightforward like old-timey newspaper postings. Doing anything that gets in the way of the ease of operation is a failure case. Another challenge that Craigslist has is that none of the content is managed by Craigslist, leaving the content unedited by a professional. This post will be a 3-part series leading to the final result.
 
 # Analysis

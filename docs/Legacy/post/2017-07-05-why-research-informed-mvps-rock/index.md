@@ -9,6 +9,7 @@ tags:
 description: I hear a lot of buzz on both sides of the MVP argument. Some say, MVPs are great, others say that they are trouble.
 ---
 
+# Why research informed MVPs rock!
 I hear a lot of buzz on both sides of the MVP argument. Some say, MVPs are great, others say that they are trouble.
 
 MVPs can be a great starting strategy for product teams looking to get products out there quickly. People who dislike MVPs typically are frustrated by the concept of putting out trashy user experiences in favor of evaluative research.

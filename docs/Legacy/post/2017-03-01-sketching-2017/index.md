@@ -7,6 +7,7 @@ description: Sketching is one of the best tools for rapid communication and iter
 coverImage: sketchtools.jpg
 ---
 
+# Sketching 2017
 Sketching is one of the best tools for rapid communication and iteration. It is a skill that improves with practice, and in 2017 I'm practicing more than ever. Today, I'm sharing some of the tools I use for practice and some of the sketches I have made so far this year.
 
 # Tools

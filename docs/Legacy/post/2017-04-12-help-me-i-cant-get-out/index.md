@@ -7,6 +7,7 @@ categories:
 description: My wife, Patricia, and I went to visit my parents for the weekend a while ago. My stepdad drove us to breakfast in his Ford Fiesta. When we arrived, Patricia tried to get out but realized that the door was somehow locked. Upon further investigation, there may be some interesting design safety considerations about the locking mechanisms on the car doors.
 ---
 
+# Help me, I can't get out!
 My wife, Patricia, and I went to visit my parents for the weekend a while ago. My stepdad drove us to breakfast in his Ford Fiesta. When we arrived, Patricia tried to get out but realized that the door was somehow locked. Upon further investigation, there may be some interesting design safety considerations about the locking mechanisms on the car doors.
 
 \[caption id="attachment\_828" align="alignnone" width="4096"\]![IMG_20170305_112425.jpg](./images/img_20170305_112425.jpg) The back door of the car. See how there are no manual locks.\[/caption\]

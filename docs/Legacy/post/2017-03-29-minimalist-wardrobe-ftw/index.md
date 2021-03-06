@@ -7,6 +7,7 @@ description:  \"You'll see I wear only gray or blue suits,\" \[Obama\] said. \"I
 coverImage: 579_slp1-e1499485908811.jpg
 ---
 
+# Minimalist Wardrobe FTW!
 > "You'll see I wear only gray or blue suits," \[Obama\] said. "I'm trying to pare down decisions. I don't want to make decisions about what I’m eating or wearing. Because I have too many other decisions to make."
 
 Why do we have all of these options?

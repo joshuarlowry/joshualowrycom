@@ -11,6 +11,7 @@ description: I have spent most of 2017 building my sketching skills. Recently, I
 coverImage: cartographer.png
 ---
 
+# Daily UI Challenge 1-5
 I have spent most of 2017 building my sketching skills. Recently, I have been wondering how far my designs could go if I started making higher-fidelity prototypes. Unfortunately, skill building can be hard on the go, so I signed up for the [100-day Daily UI challenge](http://dailyui.co).
 
 I will be detailing the designs that I put together through my blog in bunches or as individuals depending on how much text I want to write with each one. I may exclude some of the 100.

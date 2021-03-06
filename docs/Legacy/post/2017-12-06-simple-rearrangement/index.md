@@ -9,6 +9,7 @@ description: Sometimes good designs can become great designs by rearranging the 
 coverImage: shopping-1232944_12801.jpg
 ---
 
+# Simple Rearrangement
 Sometimes good designs can become great designs by rearranging the parts. I find that the best arrangement for tasks closely mirrors the way we do things without technology. The closer we match these experiences the easier our system will be to use. As a bonus, rearranging interfaces is typically pretty simple and low cost.
 
 Take the Nintendo Switch eShop experience for example. In theory, buying a game from the eShop should be similar to that of brick and mortar stores. The journey looks something like the following.

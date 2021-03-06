@@ -8,6 +8,7 @@ description: Initially, I felt a bit bored by Challenge 6. Once I started thinki
 coverImage: challenge6.png
 ---
 
+# Daily UI Challenge 6
 Initially, I felt a bit bored by Challenge 6. Once I started thinking about what I wanted to design, though, I remembered that I have a DND 5th Edition Campaign full of characters. Each character could have their own "user" profile. For those who are unfamiliar, characters in DND have all kinds of information you can track, including background information, stats for their capabilities, items they are holding, and more. This information is typically captured in a character sheet (example below).
 
 ![erdh-capture](./images/erdh-capture.png)

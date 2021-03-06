@@ -7,6 +7,7 @@ description: Sketching with ink is definitely the right strategy for the UX fiel
 coverImage: sketch-with-ink.jpg
 ---
 
+# Sketch with ink!
 Sketching with ink is definitely the right strategy for the UX field. Ink is so rigid and yet so flexible.
 
 Some people think about ink as a tool that locks you in, but really I think it unlocks you. Other tools lock you into the viewscreen (or sheet of paper). You think, how can I manipulate what is on this page to work, and you use other tools such as an eraser to correct mistakes and manipulate based on change, wasting valuable time.

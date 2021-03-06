@@ -8,6 +8,7 @@ description: I am renting camera equipment for an upcoming trip, and I found the
 coverImage: actualpriceperday.png
 ---
 
+# Case Study: Camera Rental
 I am renting camera equipment for an upcoming trip, and I found the user journey to be kind of interesting. I will first detail my journey for renting the equipment, talk about challenges I had with the site, and then talk about how I came up with a pricing model that should enable a new UI design.
 
 # Journey

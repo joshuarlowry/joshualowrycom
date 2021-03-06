@@ -7,6 +7,7 @@ description: We went on a quick trip to South Africa recently, part of why I hav
 coverImage: dsc_0984.jpg
 ---
 
+# Cape Town, South Africa
 We went on a quick trip to South Africa recently, part of why I have been absent. We visited Cape Town, Table Mountain, Kirstenbosch Botanical Gardens, Cape of Good Hope, Hermanus (Whale Watching), and Kruger National Park (Safari).
 
 The first stop is Cape Town is a beautiful city with an extraordinarily blue sky, even when there is rain. Here is a selection of photos from our trip. Over the next few weeks, I will reveal pictures from our trip.

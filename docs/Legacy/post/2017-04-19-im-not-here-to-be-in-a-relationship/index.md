@@ -7,6 +7,7 @@ categories:
 description: I went to a happy hour with a friend at a local bar called Hops Scholar. I've been to the bar before, and I really like that they have a wide selection of beers (47 taps) and an easy-going atmosphere. They have a chalkboard which typically lists their beers, but this time they told us, \"We have our menu on this app, it is called \[pause, while the bartender turns a placard around\] 'Untapped'\". We said, \"Great!\" and ordered a round based on the bartender's initial suggestion and sat down at a table across the room.
 ---
 
+# I'm not here to be in a relationship
 I went to a happy hour with a friend at a local bar called Hops Scholar. I've been to the bar before, and I really like that they have a wide selection of beers (47 taps) and an easy-going atmosphere. They have a chalkboard which typically lists their beers, but this time they told us, "We have our menu on this app, it is called \[pause, while the bartender turns a placard around\] 'Untapped'". We said, "Great!" and ordered a round based on the bartender's initial suggestion and sat down at a table across the room.
 
 We both started installing the application. Well, first we started downloading it really. It took about 5 minutes.

@@ -6,6 +6,7 @@ categories:
 description: When I feel like I haven't been very productive I think a lot about how retirement would certainly free me up to do \"all that stuff\" that I wish I could do.
 ---
 
+# 3 Steps: How I'm utilizing my free time more effectively.
 When I feel like I haven't been very productive I think a lot about how retirement would certainly free me up to do "all that stuff" that I wish I could do.
 
 My wife reminds me,

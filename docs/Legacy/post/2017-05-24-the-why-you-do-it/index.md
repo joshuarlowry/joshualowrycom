@@ -8,6 +8,7 @@ description: I recently re-watched a great TED talk by Simon Sinek titled \"How 
 coverImage: why16to100.jpg
 ---
 
+# The Why You Do It
 I recently re-watched a great TED talk by Simon Sinek titled "How great leaders inspire action".
 
 There are two things that resonate with me from his talk. He says, "what you do simply serves as the proof of what you believe", and "you can trip over 10%" of users. To get to 100% of your users you need do two things.

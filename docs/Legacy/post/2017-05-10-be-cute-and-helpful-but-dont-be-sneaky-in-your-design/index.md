@@ -8,6 +8,7 @@ description:  Sneaky makes me wonder what you are doing with my information!
 coverImage: 2017-04-16-09-26-www-mindmeister-com.png
 ---
 
+# Be cute and helpful, but don't be sneaky in your design.
 > Sneaky makes me wonder what you are doing with my information!
 
 \[caption id="attachment\_1186" align="aligncenter" width="521"\]![2017-04-16-09-30-www.mindmeister.com.png](./images/2017-04-16-09-30-www-mindmeister-com.png) Screen displayed after allowing access to my Google account in a signup. _Side note, I think the aspect ratio is off a bit._\[/caption\]

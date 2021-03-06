@@ -8,6 +8,7 @@ description: I am currently listening (Audibling?) to the book \"[Algorithms to
 coverImage: algorithmstoliveby.jpg
 ---
 
+# Algorithms to Live By: Bucket Sorting Laundry
 I am currently listening (Audibling?) to the book "[Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)" written by Brian Christian and Tom Griffiths. In the book, they describe how algorithms used in computer science can also be used in the real world.
 
 The next time I followed my usual laundry process, I realized that I had used something similar to the [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort).

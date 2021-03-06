@@ -8,6 +8,7 @@ description: This was my first Chicago Camps event and it was masterfully hosted
 coverImage: chicagocamps.jpg
 ---
 
+# Chicago Camps: Home Edition - 6/13/2020
 This was my first Chicago Camps event and it was masterfully hosted through the [Demio platform](https://demio.com/). This event attracted some great speakers including [Stephen Anderson](https://twitter.com/stephenanderson) and [Kim Goodwin](https://twitter.com/kimgoodwin). These notes do not cover all of the speakers in the conference.
 
 ## Unprecedented Complexity

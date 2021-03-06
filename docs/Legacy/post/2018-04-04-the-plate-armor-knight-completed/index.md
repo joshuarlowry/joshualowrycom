@@ -7,6 +7,7 @@ description: This plate armor knight came in a learn to paint kit from [Reaper](
 coverImage: mvimg_20180225_131458.jpg
 ---
 
+# The Plate Armor Knight - Completed
 This plate armor knight came in a learn to paint kit from [Reaper](http://reapermini.com). Total paint time was somewhere in the 6-8 hour range.
 
 Here is a picture of the unpainted model from the Reaper website. This model is from their Bones series of miniatures which are ready for painting.

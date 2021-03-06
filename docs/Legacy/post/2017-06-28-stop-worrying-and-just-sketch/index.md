@@ -8,6 +8,7 @@ tags:
 description: So many people tell me that their sketches aren't good, but they are just overworking it! People assume that a sketch has to be beautiful, with straight, clean lines, and maybe even a little color. They are wrong.
 ---
 
+# Stop worrying and just sketch!
 So many people tell me that their sketches aren't good, but they are just overworking it! People assume that a sketch has to be beautiful, with straight, clean lines, and maybe even a little color. They are wrong.
 
 > Sketching is a device for communication. As soon as you have what you need, you can stop!

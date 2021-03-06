@@ -11,6 +11,7 @@ description: This is part three of my [Uplabs](http://www.uplabs.com/challenges
 coverImage: preview2.png
 ---
 
+# UpLabs Craigslist Redesign Part 3: Design
 This is part three of my [Uplabs](http://www.uplabs.com/challenges) Craigslist redesign challenge. You can read post one and two which cover some basic overviews of the Craigslist site as well as a Persona, Scenario, and Journey Map I will use today.
 
 # Design Goals

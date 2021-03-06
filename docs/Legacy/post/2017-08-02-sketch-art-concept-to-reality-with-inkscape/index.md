@@ -8,6 +8,7 @@ description: I am back at it again with Inkscape. I have regularly sketched thes
 coverImage: layered-sketches_3.jpg
 ---
 
+# Sketch Art Concept to Reality with Inkscape
 I am back at it again with Inkscape. I have regularly sketched these interesting layered art concepts where it looks like each layer has been cut away to reveal more depth. Below are just a few I had on hand.
 
 \[gallery ids="1723,1724,1725" type="slideshow"\]

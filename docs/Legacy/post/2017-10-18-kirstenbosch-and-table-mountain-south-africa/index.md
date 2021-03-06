@@ -7,6 +7,7 @@ description: Our day at Kirstenbosch was a little gloomy at first. We actually w
 coverImage: img_20170815_114336.jpg
 ---
 
+# Kirstenbosch and Table Mountain, South Africa
 Our day at Kirstenbosch was a little gloomy at first. We actually were planning to visit Robben Island, but due to the weather were not able to get out to the island. We hopped on the bus and made our way over to these beautiful gardens.
 
 After walking through the entrance, we were presented with some beautiful views of the clouds slowly raising up the sides of the mountains trapped in the crevices.

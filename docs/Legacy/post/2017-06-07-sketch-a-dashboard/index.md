@@ -7,6 +7,7 @@ description: My life would be easier if I had a home dashboard system that allow
 coverImage: dashboard_1-e1496516409166.jpg
 ---
 
+# Sketch A Dashboard
 My life would be easier if I had a home dashboard system that allowed me to control different parts of my home and fed me information. Of course, this implies that I have things to control... I do not.
 
 Here are some quick sketches I put together that I will never develop.

@@ -5,6 +5,7 @@ description: Joshua R. Lowry
 coverImage: 579_slp1-e1499485908811.jpg
 ---
 
+# About Me
 Joshua R. Lowry
 
 I believe in making great experiences for humans. I am a well-rounded User Experience (UX) Design Lead with a background in Computer Science. I use my skills in research and design, coupled with my ability to translate with developers to create great products.

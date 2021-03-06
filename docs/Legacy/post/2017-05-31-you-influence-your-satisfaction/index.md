@@ -8,6 +8,7 @@ description: Things in your career and life don't always go as expected. Maybe 
 coverImage: hole.jpg
 ---
 
+# You Influence Your Satisfaction
 Things in your career and life don't always go as expected. Maybe you didn't plan, or maybe you had some assumptions about how everything would work.
 
 ![hole](https://joshualowrycom.files.wordpress.com/2017/03/hole.jpg?w=300)

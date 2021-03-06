@@ -9,6 +9,7 @@ description: I'm a big fan of the [What to Draw](https://play.google.com/store/a
 coverImage: clownpicturefeature.png
 ---
 
+# Who's Afraid of Clowns?
 I'm a big fan of the [What to Draw](https://play.google.com/store/apps/details?id=llamaze.com.br.whattodraw&hl=en) app on Android, which gives random sketch prompts. This one stood out to me as being something that would be fun.
 
 > A food, wearing rings/ear-rings/piercings, running away from a clown on the street.

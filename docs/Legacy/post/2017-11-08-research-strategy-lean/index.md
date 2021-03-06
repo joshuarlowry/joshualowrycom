@@ -8,6 +8,7 @@ description: Lean UX to me is a method for prioritizing evaluative research over
 coverImage: alejandro-escamilla-2.jpg
 ---
 
+# Research Strategy: Lean
 Lean UX to me is a method for prioritizing evaluative research over generative research. In the long run, you will have the same research information, but the product will have been delivered dozens of times to the customer already. It sounds like a great win on the surface, but it requires a large commitment on the part of the entire team.
 
 The product owner (hopefully only one real person) needs to prioritize vertically to ensure full features are delivered.

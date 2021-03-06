@@ -7,6 +7,7 @@ description: I took a great winter break. I have been having a ton of fun doing 
 coverImage: mvimg_20180225_135302.jpg
 ---
 
+# Tangents Transition From 2017 to 2018
 I took a great winter break. I have been having a ton of fun doing an assortment of things. It is only fair that I catch you up on some of the things I have been doing.
 
 # Dungeons and Dragons

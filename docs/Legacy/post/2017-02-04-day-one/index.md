@@ -8,6 +8,7 @@ description: Hello and welcome,
 coverImage: pexels-photo-119661.jpeg
 ---
 
+# Day One
 Hello and welcome,
 
 Today, February 4, 2017, I rebooted my plans to share my ideas more publicly on the internet. Flicking the switch for this site was one of the first steps.

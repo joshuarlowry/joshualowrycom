@@ -7,6 +7,7 @@ description: Today, I'm crossing over a major milestone. I suppose this makes me
 coverImage: gem.jpeg
 ---
 
+# The Big Three Zero
 Today, I'm crossing over a major milestone. I suppose this makes me an adult. The average age of retirement is over sixty years old, which means that I still have all of the life I have lived before I even retire. This is great news because I have plenty of time to grow and explore!
 
 My family invested in a bunch of gifts for me this year, many of which are going to help me improve my design practice.

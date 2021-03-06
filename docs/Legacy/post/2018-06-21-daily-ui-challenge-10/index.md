@@ -8,6 +8,7 @@ description: Design challenge 10 is one that barely held my interest. I spend mo
 coverImage: challenge10.png
 ---
 
+# Daily UI Challenge 10
 Design challenge 10 is one that barely held my interest. I spend most of my usual design time working on scientific applications (no social sharing here). It took me a while to really think of something worth sharing, and then it came to me.
 
 What if I created a tool for creating clips from videos and enabled those to be shared through links, embeds, and other social media platforms. This simple mockup shows roughly (really) how one might make a clip and share it.

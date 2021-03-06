@@ -8,6 +8,7 @@ description: I remembered sketching a cool pig and a moon concept years ago, but
 coverImage: swinemoon.jpg
 ---
 
+# Sketched Logo Concept to Reality: SwineMoon
 I remembered sketching a cool pig and a moon concept years ago, but I couldn't recall if I had taken a picture of it. I went to my Google photos and started sifting. Then I had the great idea to try searching for the term "Yellow" because I thought it might have been on a yellow sticky note. While I got many great photos with the color yellow, this one was not there. Then, I went out on a limb and tried to search for the term "sketch". I was shocked at how well Google identified my sketches! There it was, near the bottom. This should tell you how long ago this sketch was created. _In fact, Google claims the photo was taken back in September 2011!_
 
 I wanted to see what it might require making it come to life using free tools, so I picked up Inkscape. I never lock myself into a single tool, because there is no single tool to rule them all. If a tool is necessary to get the job done, I will pick it up.

@@ -7,6 +7,7 @@ categories:
 description: Beginning research is an acknowledgment that we don't know. There are many things that we may not know, and we can try to articulate them by listing hypothesis as assumptions and then testing them with research. We are always better off knowing sooner because our ability to pivot is improved and our sunk cost will be lower.
 ---
 
+# Don't Fear the Unknown
 Beginning research is an acknowledgment that we don't know. There are many things that we may not know, and we can try to articulate them by listing hypothesis as assumptions and then testing them with research. We are always better off knowing sooner because our ability to pivot is improved and our sunk cost will be lower.
 
 > Assumption: When a person is booking travel with multiple destinations that the beginning of their next flight could literally be anywhere in the world by default.

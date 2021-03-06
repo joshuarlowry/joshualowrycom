@@ -10,6 +10,7 @@ description: I have the \"Design Bug,\" which is a clinical way of saying that 
 coverImage: emailstart.png
 ---
 
+# Unsolicited Redesign #1 - Redbox Email
 I have the "Design Bug," which is a clinical way of saying that I find myself wondering how I could improve experiences that I have. Redesigning things is fun and relaxing, and can also be a good way to demonstrate design process.
 
 _Formatting note: Over the first few Unsolicited Redesigns, I will be working on the form and function of these posts. Please feel free to send your feedback._

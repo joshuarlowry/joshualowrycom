@@ -7,6 +7,7 @@ description: A few posts ago I mentioned renting camera equipment. It was finall
 coverImage: dsc_0321_00017-effects.jpg
 ---
 
+# Photography Side Hobby - Practice at the Zoo
 A few posts ago I mentioned renting camera equipment. It was finally time to pick up and use the equipment in advance of vacation (where the real use begins).
 
 Off to the [Houston Zoo](https://www.houstonzoo.org/)! All of the photos are high-res, so please open them up and get a look at the details. These photos are mine, please don't use them without talking to me first. My wife and I both took photos at the zoo, but these are my top pics from the pictures I took.

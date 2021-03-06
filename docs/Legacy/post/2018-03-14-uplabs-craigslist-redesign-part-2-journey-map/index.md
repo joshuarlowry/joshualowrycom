@@ -10,6 +10,7 @@ description: This is part two of my [Uplabs](http://www.uplabs.com/challenges)�
 coverImage: craigslistjourneymap3.png
 ---
 
+# UpLabs Craigslist Redesign Part 2: Vision
 This is part two of my [Uplabs](http://www.uplabs.com/challenges) Craigslist redesign challenge. Last time, I reviewed several of the pages of the Craigslist Website and identified some stumbling blocks as well as positive components. Next, I will build up some artifacts that will help inform the design process.
 
 With a site as large as Craigslist, one cannot jump into designing without a strategy and vision. We will need to lay out some personas, scenarios, and journeys. For this exercise, I will just make one of each.

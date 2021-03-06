@@ -8,6 +8,7 @@ description: The Daily challenges aren't as much daily as... maybe weekly. I hit
 coverImage: challenge9.png
 ---
 
+# Daily UI Challenge 9
 The Daily challenges aren't as much daily as... maybe weekly. I hit a stumbling block on Challenge 7, which cost me some time. I just couldn't for the life of me think of something I cared about to spend the time on "settings". So, I shelved that one and have moved on for now.
 
 Color selection isn't really my thing, so I tried to use Paletton to create an interesting palette. [View the palette here](http://www.paletton.com/palette.php?uid=74b0u0kllll3oeKcni2ujoDQRrW). I wanted to design an app for playing music in the car. I tried to use large readable fonts and enormous touch areas. I moved most of the fidgety buttons from most players to a menu.

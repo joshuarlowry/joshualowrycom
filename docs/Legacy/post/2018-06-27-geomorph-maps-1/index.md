@@ -13,6 +13,7 @@ description: This may turn into a series, but I wanted to show off something ear
 coverImage: card1-e1529979509981.jpg
 ---
 
+# Geomorph Maps #1
 This may turn into a series, but I wanted to show off something early. Inspired by [Dyson Logos Geomorph Challenge](https://rpgcharacters.wordpress.com/maps/geomorph-mapping-project/), I decided to buy some grid cards online and create some interlocking maps.
 
 ![mvimg_20180625_211934](./images/mvimg_20180625_211934.jpg)
