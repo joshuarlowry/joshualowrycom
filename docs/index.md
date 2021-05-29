@@ -22,8 +22,15 @@ I got my start at 16 by working at a local computer repair shop supporting Windo
 In 2009, I got my Bachelor's of Science in Computer Science from TAMUCC. While there, I grew my understanding of the foundations of Computer Science. After college I was hired at ExxonMobil to work with their Upstream Research Company on scientific software. This is where my simplification of complexity truly began. In 2015, I began working as a UX Design Lead, first on my own as the program was getting started and then later as a team leader for a group of designers that I helped to hire. 
 
 # Projects
+
+I'm always learning and working on projects outside of my job. Pretty much everything I have worked on at work is considered proprietary and cannot be shared. 
+
 <portfolioList />
 
 # Articles
+
+Sometimes I write stuff. 
+
 <articleList />
-That's all for now.
+
+[See my Legacy posts](./Legacy.md)
