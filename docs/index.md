@@ -14,9 +14,9 @@ tagline: Simplifying complexity.
 #  details: Feature 3 Description
 footer: Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)
 ---
-<img style="margin-left: auto;
-            margin-right: auto;
-            width: 128px;" src="./logo-sm.png" alt="J and L diamond-shaped logo."/>
+<p style="text-align: center;">
+<img src="./logo-sm.png" alt="J and L diamond-shaped logo."/>
+</p>
 
 I'm always learning and working on projects outside of my job. Pretty much everything I have worked on at work is considered proprietary and cannot be shared. 
 
