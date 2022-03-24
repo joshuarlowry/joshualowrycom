@@ -12,7 +12,7 @@ tagline: Simplifying complexity.
 #   details: Feature 2 Description
 #- title: Feature 3 Title
 #  details: Feature 3 Description
-footer: Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)
+footer: Want to work together? <a href="https://www.linkedin.com/in/joshualowry/">LinkedIN</a>
 ---
 <p style="text-align: center;">
 <img src="./logo-sm.png" alt="J and L diamond-shaped logo."/>
