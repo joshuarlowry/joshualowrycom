@@ -8,10 +8,6 @@ tagline: Simplifying complexity.
 # features:
 # - title: Kiddo Lullaby
 #   details: Help grandparents manage music at our home. [Read More](./kiddolullaby/README.md)
-# - title: Feature 2 Title
-#   details: Feature 2 Description
-#- title: Feature 3 Title
-#  details: Feature 3 Description
 footer: Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)
 ---
 <p style="text-align: center;">
@@ -24,8 +20,5 @@ I'm always learning and working on projects outside of my job. Pretty much every
 
 # Articles
 
-Sometimes I write stuff. 
-
 <articleList />
 
-[See my Legacy posts](./Legacy.md)

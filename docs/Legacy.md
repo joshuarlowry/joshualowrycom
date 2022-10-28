@@ -1,3 +1,0 @@
-# Legacy Wordpress Export
-
-<legacyArticles />
