@@ -110,3 +110,4 @@ What things can impact our ability to override the old mind?
 
 Results get fed back into external information and hopefully change our beliefs. Take a systematic approach starting with Human Centered Values with Enforceable Ethical Standards (there is a whole talk on top of this). 
 
+Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)

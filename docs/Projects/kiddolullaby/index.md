@@ -53,3 +53,5 @@ Additionally, we only need one of these working to begin with, so I decided to m
 <img alt="This graphic shows an update of the KiddoLullaby app with some visual styling updates." src="./kiddolullabyEarlyProgress2.png"/>
 
 In just a few short days the application achieved stability and has been in use. Updates to the app can be deployed to my homeserver quickly using Docker.
+
+Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)
