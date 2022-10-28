@@ -8,7 +8,7 @@ tagline: Simplifying complexity.
 # features:
 # - title: Kiddo Lullaby
 #   details: Help grandparents manage music at our home. [Read More](./kiddolullaby/README.md)
-footer: Want to work together? [LinkedIN](https://www.linkedin.com/in/joshualowry/)
+footer: Want to work together? <a href="https://www.linkedin.com/in/joshualowry/">LinkedIN</a>
 ---
 <p style="text-align: center;">
 <img src="./logo-sm.png" alt="J and L diamond-shaped logo."/>
